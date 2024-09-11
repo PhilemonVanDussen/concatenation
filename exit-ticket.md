@@ -6,12 +6,12 @@
 - Use correct spelling and grammar
 
 #### List two (2) disadvantages or problems with using concatenation to build Python strings.
-- *Your answer here...*
-- *Your answer here...*
+- * Have to use multiple quotation marks using concatenation. *
+- * It takes a longer time and less effiecent 
 
 
 #### What's one advantage of using an f-string to build a string in Python?  (HINT: Think numeric data!)
-- *Your answer here...*
+- * You have an eaiser time and can use way less quotation marks.
 
 
 
